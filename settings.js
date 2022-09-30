@@ -63,14 +63,14 @@ global.location = "Pakistan, RYK, KHANPUR" //ur location
 //bot bomdy 
 global.owner = ['923006739201']
 global.ownertag = '923006739201' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.botname = 'Taskeen official' //ur bot name
 global.linkz = "https://youtu.be/hschVafWhb4" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/hschVafWhb4" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botscript = 'https://github.com/DGXeon/Taskeen official 03216740469' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.author = "Taskeen official 03216740469" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
